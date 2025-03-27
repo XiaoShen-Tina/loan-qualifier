@@ -1,1 +1,0 @@
-# Based on studernts score, we will give letter grade. Use the following WKU grading schema

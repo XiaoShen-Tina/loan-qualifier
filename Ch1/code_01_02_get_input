@@ -1,8 +1,0 @@
-# This script display name by getting input from user 
-
-# Get name from keyboard
-name = input("please enter your name:")
-
-# Print name
-#print(f"Hello {name}")
-print("Hello",name)

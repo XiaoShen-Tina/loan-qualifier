@@ -1,9 +1,0 @@
-# Write a code that repeat your name that get from input
-
-# Get name from keyboard
-name = input("please enter your name:")
-
-# Print name
-print("Hello",name)
-for _ in range(3):
-    print(f"You entered: {name}")

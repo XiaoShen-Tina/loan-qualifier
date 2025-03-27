@@ -1,7 +1,0 @@
-# This script display some message in diverse way
-
-# display a greeting message
-print("hello world")
-
-# display a greeting name
-print("hello Tina")
